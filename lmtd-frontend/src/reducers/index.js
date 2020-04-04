@@ -4,5 +4,5 @@ import gameReducer from './gameReducer'
 
 export default combineReducers ({
     form: formReducer,
-    game: gameReducer
+    games: gameReducer
 });

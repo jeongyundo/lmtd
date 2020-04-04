@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export default axios.create({
-    baseURL: 'http://localhost:3001'
+    baseURL: 'https://raw.githubusercontent.com/jeongyundo/lmtd/master/lmtd-frontend/src/db/db1.json'
 })
